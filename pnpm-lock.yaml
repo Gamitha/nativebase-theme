@@ -1,0 +1,154 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      lodash.get:
+        specifier: ^4.4.2
+        version: 4.4.2
+      lodash.isempty:
+        specifier: ^4.4.0
+        version: 4.4.0
+      lodash.isnil:
+        specifier: ^4.0.0
+        version: 4.0.0
+      lodash.omit:
+        specifier: ^4.5.0
+        version: 4.5.0
+      lodash.omitby:
+        specifier: ^4.6.0
+        version: 4.6.0
+      lodash.pick:
+        specifier: ^4.4.0
+        version: 4.4.0
+      tinycolor2:
+        specifier: ^1.4.2
+        version: 1.6.0
+    devDependencies:
+      '@types/lodash.get':
+        specifier: ^4.4.6
+        version: 4.4.9
+      '@types/lodash.isempty':
+        specifier: ^4.4.6
+        version: 4.4.9
+      '@types/lodash.isnil':
+        specifier: ^4.0.6
+        version: 4.0.9
+      '@types/lodash.omit':
+        specifier: ^4.5.6
+        version: 4.5.9
+      '@types/lodash.omitby':
+        specifier: ^4.6.6
+        version: 4.6.9
+      '@types/lodash.pick':
+        specifier: ^4.4.6
+        version: 4.4.9
+      '@types/tinycolor2':
+        specifier: ^1.4.2
+        version: 1.4.6
+      typescript:
+        specifier: ^3.8.3
+        version: 3.9.10
+
+packages:
+
+  '@types/lodash.get@4.4.9':
+    resolution: {integrity: sha512-J5dvW98sxmGnamqf+/aLP87PYXyrha9xIgc2ZlHl6OHMFR2Ejdxep50QfU0abO1+CH6+ugx+8wEUN1toImAinA==}
+
+  '@types/lodash.isempty@4.4.9':
+    resolution: {integrity: sha512-DPSFfnT2JmZiAWNWOU8IRZws/Ha6zyGF5m06TydfsY+0dVoQqby2J61Na2QU4YtwiZ+moC6cJS6zWYBJq4wBVw==}
+
+  '@types/lodash.isnil@4.0.9':
+    resolution: {integrity: sha512-NruIMLXRJL8sOm1RZkzFBfoMIkLZ7hCNWaAXzzHiBTxf4JvQowcaP1l4eTr02jGJqCSEags/bPFN3ypUKMpgFw==}
+
+  '@types/lodash.omit@4.5.9':
+    resolution: {integrity: sha512-zuAVFLUPJMOzsw6yawshsYGgq2hWUHtsZgeXHZmSFhaQQFC6EQ021uDKHkSjOpNhSvtNSU9165/o3o/Q51GpTw==}
+
+  '@types/lodash.omitby@4.6.9':
+    resolution: {integrity: sha512-QPHwcQeWP/bQVwKV1+goohDgBtSZlHgM2KA/+QhjMYV2/7RTHF72KxLPzybvu8mO7O46NdugTH/yPs3/Jcavxw==}
+
+  '@types/lodash.pick@4.4.9':
+    resolution: {integrity: sha512-hDpr96x9xHClwy1KX4/RXRejqjDFTEGbEMT3t6wYSYeFDzxmMnSKB/xHIbktRlPj8Nii2g8L5dtFDRaNFBEzUQ==}
+
+  '@types/lodash@4.17.7':
+    resolution: {integrity: sha512-8wTvZawATi/lsmNu10/j2hk1KEP0IvjubqPE3cu1Xz7xfXXt5oCq3SNUz4fMIP4XGF9Ky+Ue2tBA3hcS7LSBlA==}
+
+  '@types/tinycolor2@1.4.6':
+    resolution: {integrity: sha512-iEN8J0BoMnsWBqjVbWH/c0G0Hh7O21lpR2/+PrvAVgWdzL7eexIFm4JN/Wn10PTcmNdtS6U67r499mlWMXOxNw==}
+
+  lodash.get@4.4.2:
+    resolution: {integrity: sha512-z+Uw/vLuy6gQe8cfaFWD7p0wVv8fJl3mbzXh33RS+0oW2wvUqiRXiQ69gLWSLpgB5/6sU+r6BlQR0MBILadqTQ==}
+
+  lodash.isempty@4.4.0:
+    resolution: {integrity: sha512-oKMuF3xEeqDltrGMfDxAPGIVMSSRv8tbRSODbrs4KGsRRLEhrW8N8Rd4DRgB2+621hY8A8XwwrTVhXWpxFvMzg==}
+
+  lodash.isnil@4.0.0:
+    resolution: {integrity: sha512-up2Mzq3545mwVnMhTDMdfoG1OurpA/s5t88JmQX809eH3C8491iu2sfKhTfhQtKY78oPNhiaHJUpT/dUDAAtng==}
+
+  lodash.omit@4.5.0:
+    resolution: {integrity: sha512-XeqSp49hNGmlkj2EJlfrQFIzQ6lXdNro9sddtQzcJY8QaoC2GO0DT7xaIokHeyM+mIT0mPMlPvkYzg2xCuHdZg==}
+
+  lodash.omitby@4.6.0:
+    resolution: {integrity: sha512-5OrRcIVR75M288p4nbI2WLAf3ndw2GD9fyNv3Bc15+WCxJDdZ4lYndSxGd7hnG6PVjiJTeJE2dHEGhIuKGicIQ==}
+
+  lodash.pick@4.4.0:
+    resolution: {integrity: sha512-hXt6Ul/5yWjfklSGvLQl8vM//l3FtyHZeuelpzK6mm99pNvN9yTDruNZPEJZD1oWrqo+izBmB7oUfWgcCX7s4Q==}
+
+  tinycolor2@1.6.0:
+    resolution: {integrity: sha512-XPaBkWQJdsf3pLKJV9p4qN/S+fm2Oj8AIPo1BTUhg5oxkvm9+SVEGFdhyOz7tTdUTfvxMiAs4sp6/eZO2Ew+pw==}
+
+  typescript@3.9.10:
+    resolution: {integrity: sha512-w6fIxVE/H1PkLKcCPsFqKE7Kv7QUwhU8qQY2MueZXWx5cPZdwFupLgKK3vntcK98BtNHZtAF4LA/yl2a7k8R6Q==}
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+
+snapshots:
+
+  '@types/lodash.get@4.4.9':
+    dependencies:
+      '@types/lodash': 4.17.7
+
+  '@types/lodash.isempty@4.4.9':
+    dependencies:
+      '@types/lodash': 4.17.7
+
+  '@types/lodash.isnil@4.0.9':
+    dependencies:
+      '@types/lodash': 4.17.7
+
+  '@types/lodash.omit@4.5.9':
+    dependencies:
+      '@types/lodash': 4.17.7
+
+  '@types/lodash.omitby@4.6.9':
+    dependencies:
+      '@types/lodash': 4.17.7
+
+  '@types/lodash.pick@4.4.9':
+    dependencies:
+      '@types/lodash': 4.17.7
+
+  '@types/lodash@4.17.7': {}
+
+  '@types/tinycolor2@1.4.6': {}
+
+  lodash.get@4.4.2: {}
+
+  lodash.isempty@4.4.0: {}
+
+  lodash.isnil@4.0.0: {}
+
+  lodash.omit@4.5.0: {}
+
+  lodash.omitby@4.6.0: {}
+
+  lodash.pick@4.4.0: {}
+
+  tinycolor2@1.6.0: {}
+
+  typescript@3.9.10: {}
